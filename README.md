@@ -11,7 +11,7 @@ This repository contains two Jupyter notebooks that implement neural networks wi
 - **`binary_classifier.ipynb`** - Binary classification between two handwritten MNIST digits
 - **`multi_class_classifier.ipynb`** - Multi-class classification for all 10 MNIST digits (0-9)
 
-## Educational Purpose
+## Purpose
 
 These implementations are designed to solidify understanding of:
 
