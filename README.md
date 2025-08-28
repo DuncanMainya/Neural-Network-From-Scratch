@@ -150,9 +150,3 @@ This code prioritizes:
 - **Minimal dependencies** - Using basic NumPy operations to see the math
 
 
-## Contributing
-
-Feel free to suggest improvements or additional educational examples that would help solidify neural network concepts!
-
----
-*Built for learning, optimized for understanding* 🧠
